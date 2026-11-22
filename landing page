@@ -1,0 +1,3007 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dra. Marta Daniele Menezes | Odontologia em Aracaju</title>
+    <meta
+      name="description"
+      content="Conheça o trabalho da Dra. Marta Daniele Menezes, cirurgiã-dentista em Aracaju — SE, com atuação em dentística restauradora e estética do sorriso."
+    />
+    <meta property="og:title" content="Dra. Marta Daniele Menezes | Odontologia em Aracaju" />
+    <meta
+      property="og:description"
+      content="Conheça o trabalho da Dra. Marta Daniele Menezes, cirurgiã-dentista em Aracaju — SE, com atuação em dentística restauradora e estética do sorriso."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:site_name" content="Dra. Marta Daniele Menezes" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Dra. Marta Daniele Menezes | Odontologia em Aracaju" />
+    <meta
+      name="twitter:description"
+      content="Atuação em dentística restauradora e estética do sorriso em Aracaju — Sergipe, com atenção individualizada em cada etapa."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Dentist",
+        "name": "Dra. Marta Daniele Menezes",
+        "description": "Cirurgiã-dentista (CRO 1102/SE) no Instituto Odontomed em Aracaju, Sergipe, com atuação em dentística restauradora e estética do sorriso.",
+        "telephone": "+55-79-9972-4010",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Rua Zaqueu Brandão, 250 - Instituto Odontomed, São José",
+          "addressLocality": "Aracaju",
+          "addressRegion": "SE",
+          "postalCode": "49015-330",
+          "addressCountry": "BR"
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday", "Wednesday", "Friday"],
+            "opens": "09:00",
+            "closes": "12:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Tuesday", "Thursday"],
+            "opens": "13:00",
+            "closes": "18:00"
+          }
+        ],
+        "sameAs": [
+          "https://www.instagram.com/martadanielemenezes/",
+          "https://www.instagram.com/dra.martadaniele_/"
+        ]
+      }
+    </script>
+    <style>
+      :root {
+        /* Paleta Soft Blue Elegance */
+        --color-blue-mist: #edf6fb;
+        --color-blue-soft: #dcecf5;
+        --color-blue-mid: #9bb8ca;
+        --color-blue-slate: #526e80;
+        --color-blue-deep: #354f60;
+        --color-white: #ffffff;
+        --color-ivory: #faf9f6;
+        --color-text-primary: #465967;
+        --color-text-secondary: #687b88;
+        --color-border: #e4edf1;
+
+        /* Tokens Semânticos */
+        --bg-canvas: var(--color-white);
+        --bg-surface-warm: var(--color-ivory);
+        --bg-surface-blue: var(--color-blue-mist);
+        --bg-surface-muted: var(--color-blue-soft);
+        --text-heading: var(--color-blue-deep);
+        --text-body: var(--color-text-primary);
+        --text-muted: var(--color-text-secondary);
+        --accent-primary: var(--color-blue-slate);
+        --accent-primary-hover: var(--color-blue-deep);
+        --accent-soft: var(--color-blue-mid);
+        --border-hairline: var(--color-border);
+
+        /* Tipografia suave e de alta legibilidade */
+        --font-display: "Lora", Georgia, serif;
+        --font-body: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+
+        /* Geometria Editorial Minimalista (cantos sutis, bordas finas, sem sombras difusas) */
+        --radius-subtle: 4px;
+        --radius-frame: 6px;
+        --section-space-y: clamp(4.75rem, 8.5vw, 7rem);
+        --header-height: 52px;
+        --mobile-bottom-bar-height: 52px;
+        --transition-fast: 190ms cubic-bezier(0.16, 1, 0.3, 1);
+      }
+
+      @media (min-width: 768px) {
+        :root {
+          --header-height: 72px;
+        }
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+        scroll-padding-top: calc(var(--header-height) + 16px);
+      }
+
+      body {
+        margin: 0;
+        background-color: var(--bg-canvas);
+        color: var(--text-body);
+        font-family: var(--font-body);
+        font-size: 1.0625rem;
+        line-height: 1.7;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        overflow-x: hidden;
+      }
+
+      h1,
+      h2,
+      h3,
+      p,
+      figure,
+      blockquote,
+      dl,
+      dd {
+        margin: 0;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      button {
+        font-family: inherit;
+        color: inherit;
+        background: none;
+        border: none;
+        padding: 0;
+        cursor: pointer;
+      }
+
+      img,
+      svg {
+        display: block;
+      }
+
+      [hidden] {
+        display: none !important;
+      }
+
+      .sr-only {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }
+
+      .skip-link:focus {
+        position: fixed;
+        top: 0.75rem;
+        left: 0.75rem;
+        z-index: 60;
+        width: auto;
+        height: auto;
+        padding: 0.5rem 1rem;
+        margin: 0;
+        overflow: visible;
+        clip: auto;
+        border-radius: var(--radius-subtle);
+        background-color: var(--accent-primary);
+        color: var(--color-white);
+        font-size: 0.875rem;
+      }
+
+      :focus-visible {
+        outline: 2px solid var(--accent-primary);
+        outline-offset: 3px;
+        border-radius: var(--radius-subtle);
+      }
+
+      .container {
+        width: 100%;
+        max-width: 1200px;
+        margin-inline: auto;
+        padding-inline: 1.25rem;
+      }
+
+      @media (min-width: 640px) {
+        .container {
+          padding-inline: 2rem;
+        }
+      }
+
+      .font-display {
+        font-family: var(--font-display);
+      }
+
+      .headline-balance {
+        text-wrap: balance;
+      }
+
+      .tabular-nums {
+        font-variant-numeric: tabular-nums;
+      }
+
+      .section-rhythm {
+        padding-top: var(--section-space-y);
+        padding-bottom: var(--section-space-y);
+      }
+
+      .architectural-grid-bg {
+        background-image:
+          linear-gradient(to right, var(--border-hairline) 1px, transparent 1px),
+          linear-gradient(to bottom, var(--border-hairline) 1px, transparent 1px);
+        background-size: 40px 40px;
+      }
+
+      /* Cartões e superfícies editoriais com leve glassmorphism, borda fina e zero sombras difusas */
+      .editorial-card {
+        background-color: rgba(255, 255, 255, 0.78);
+        -webkit-backdrop-filter: blur(8px);
+        backdrop-filter: blur(8px);
+        border: 1px solid var(--border-hairline);
+        border-radius: var(--radius-frame);
+        transition:
+          border-color var(--transition-fast),
+          background-color var(--transition-fast),
+          transform var(--transition-fast);
+      }
+
+      .editorial-card:hover {
+        background-color: rgba(255, 255, 255, 0.9);
+        border-color: var(--accent-soft);
+      }
+
+      /* Botões refinados com resposta tátil e zero sombras difusas */
+      .btn-primary {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.625rem;
+        min-height: 46px;
+        padding: 0.75rem 1.625rem;
+        background-color: var(--accent-primary);
+        color: var(--color-white);
+        border: 1px solid var(--accent-primary);
+        border-radius: var(--radius-subtle);
+        font-size: 0.9375rem;
+        font-weight: 500;
+        letter-spacing: 0.01em;
+        white-space: nowrap;
+        flex-shrink: 0;
+        transition:
+          background-color var(--transition-fast),
+          border-color var(--transition-fast),
+          transform var(--transition-fast);
+      }
+
+      .btn-primary:hover {
+        background-color: var(--accent-primary-hover);
+        border-color: var(--accent-primary-hover);
+      }
+
+      .btn-primary:active {
+        transform: translateY(1px);
+      }
+
+      .btn-secondary {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.625rem;
+        min-height: 46px;
+        padding: 0.75rem 1.625rem;
+        background-color: transparent;
+        color: var(--text-heading);
+        border: 1px solid var(--border-hairline);
+        border-radius: var(--radius-subtle);
+        font-size: 0.9375rem;
+        font-weight: 500;
+        letter-spacing: 0.01em;
+        white-space: nowrap;
+        flex-shrink: 0;
+        transition:
+          background-color var(--transition-fast),
+          border-color var(--transition-fast),
+          color var(--transition-fast);
+      }
+
+      .btn-secondary:hover {
+        background-color: var(--bg-surface-blue);
+        border-color: var(--accent-soft);
+      }
+
+      .nav-link-editorial {
+        position: relative;
+        color: var(--text-body);
+        font-size: 0.9375rem;
+        font-weight: 500;
+        white-space: nowrap;
+        flex-shrink: 0;
+        padding-block: 0.25rem;
+        transition: color var(--transition-fast);
+      }
+
+      .nav-link-editorial::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 1px;
+        background-color: var(--accent-primary);
+        transform: scaleX(0);
+        transform-origin: left;
+        transition: transform var(--transition-fast);
+      }
+
+      .nav-link-editorial:hover {
+        color: var(--text-heading);
+      }
+
+      .nav-link-editorial:hover::after {
+        transform: scaleX(1);
+      }
+
+      /* Scroll Reveal */
+      .reveal {
+        opacity: 0;
+        transform: translateY(20px);
+        transition:
+          opacity 0.55s cubic-bezier(0.16, 1, 0.3, 1),
+          transform 0.55s cubic-bezier(0.16, 1, 0.3, 1);
+      }
+
+      .reveal.is-visible {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      /* Header */
+      .site-header {
+        position: sticky;
+        top: 0;
+        z-index: 40;
+        border-bottom: 1px solid transparent;
+        background-color: rgba(255, 255, 255, 0.88);
+        -webkit-backdrop-filter: blur(6px);
+        backdrop-filter: blur(6px);
+        transition:
+          border-color 200ms ease,
+          background-color 200ms ease;
+      }
+
+      .site-header.is-scrolled,
+      .site-header.is-menu-open {
+        border-bottom-color: var(--border-hairline);
+        background-color: rgba(255, 255, 255, 0.96);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+      }
+
+      .header-inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.75rem;
+        height: 52px;
+        max-width: 1200px;
+        margin-inline: auto;
+        padding-inline: 1rem;
+      }
+
+      @media (min-width: 640px) {
+        .header-inner {
+          padding-inline: 2rem;
+        }
+      }
+
+      @media (min-width: 768px) {
+        .header-inner {
+          height: 72px;
+          gap: 2rem;
+        }
+      }
+
+      .brand-wordmark {
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        font-family: var(--font-display);
+        font-size: 1.0625rem;
+        font-weight: 600;
+        letter-spacing: -0.02em;
+        color: var(--text-heading);
+      }
+
+      @media (min-width: 380px) {
+        .brand-wordmark {
+          font-size: 1.125rem;
+        }
+      }
+
+      @media (min-width: 640px) {
+        .brand-wordmark {
+          font-size: 1.45rem;
+        }
+      }
+
+      @media (min-width: 768px) {
+        .brand-wordmark {
+          flex-shrink: 0;
+        }
+      }
+
+      .desktop-nav {
+        display: none;
+        align-items: center;
+        gap: 2rem;
+      }
+
+      @media (min-width: 768px) {
+        .desktop-nav {
+          display: flex;
+        }
+      }
+
+      .header-actions {
+        display: flex;
+        flex-shrink: 0;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .header-desktop-cta {
+        display: none;
+        min-height: 40px;
+        padding: 0.5rem 1rem;
+        font-size: 0.875rem;
+      }
+
+      @media (min-width: 768px) {
+        .header-desktop-cta {
+          display: inline-flex;
+        }
+      }
+
+      .mobile-menu-toggle {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 44px;
+        height: 44px;
+        flex-shrink: 0;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-canvas);
+        color: var(--text-heading);
+        transition: background-color var(--transition-fast);
+      }
+
+      .mobile-menu-toggle:hover {
+        background-color: var(--bg-surface-blue);
+      }
+
+      @media (min-width: 768px) {
+        .mobile-menu-toggle {
+          display: none;
+        }
+      }
+
+      /* Mobile Menu Overlay */
+      .mobile-menu-layer {
+        position: fixed;
+        inset: 0;
+        z-index: 35;
+      }
+
+      @media (min-width: 768px) {
+        .mobile-menu-layer {
+          display: none !important;
+        }
+      }
+
+      .mobile-menu-backdrop {
+        position: fixed;
+        inset: 52px 0 0 0;
+        z-index: 35;
+        background-color: rgba(53, 79, 96, 0.25);
+        -webkit-backdrop-filter: blur(1px);
+        backdrop-filter: blur(1px);
+      }
+
+      .mobile-menu-panel {
+        position: fixed;
+        top: 52px;
+        left: 0;
+        right: 0;
+        z-index: 40;
+        max-height: calc(100dvh - var(--header-height) - var(--mobile-bottom-bar-height) - 16px);
+        overflow-y: auto;
+        border-bottom: 1px solid var(--border-hairline);
+        background-color: var(--bg-canvas);
+        padding: 1rem;
+      }
+
+      @media (min-width: 640px) {
+        .mobile-menu-panel {
+          padding-inline: 1.5rem;
+        }
+      }
+
+      .mobile-nav-list {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+      }
+
+      .mobile-nav-link {
+        display: flex;
+        align-items: center;
+        min-height: 48px;
+        padding-inline: 0.75rem;
+        border-radius: var(--radius-subtle);
+        font-size: 1rem;
+        font-weight: 500;
+        color: var(--text-body);
+        transition:
+          background-color var(--transition-fast),
+          color var(--transition-fast);
+      }
+
+      .mobile-nav-link:hover {
+        background-color: var(--bg-surface-blue);
+        color: var(--text-heading);
+      }
+
+      .mobile-menu-actions {
+        margin-top: 0.75rem;
+        padding-top: 1rem;
+        border-top: 1px solid var(--border-hairline);
+        display: flex;
+        flex-direction: column;
+        gap: 0.625rem;
+      }
+
+      .w-full {
+        width: 100%;
+      }
+
+      /* Hero */
+      .hero-section {
+        position: relative;
+        overflow: hidden;
+        background-color: var(--bg-canvas);
+        padding-top: 2.5rem;
+        padding-bottom: 4rem;
+      }
+
+      @media (min-width: 640px) {
+        .hero-section {
+          padding-top: 3.5rem;
+          padding-bottom: 6rem;
+        }
+      }
+
+      @media (min-width: 1024px) {
+        .hero-section {
+          padding-top: 5rem;
+          padding-bottom: 7rem;
+        }
+      }
+
+      .hero-blue-band {
+        display: none;
+        pointer-events: none;
+      }
+
+      @media (min-width: 1024px) {
+        .hero-blue-band {
+          display: block;
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          right: 0;
+          width: 38%;
+          border-left: 1px solid var(--border-hairline);
+          background-color: rgba(237, 246, 251, 0.55);
+        }
+      }
+
+      .hero-container {
+        position: relative;
+      }
+
+      .hero-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 3rem;
+        align-items: stretch;
+      }
+
+      @media (min-width: 1024px) {
+        .hero-grid {
+          grid-template-columns: repeat(12, minmax(0, 1fr));
+          gap: 3.5rem;
+        }
+      }
+
+      .hero-copy-col {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+
+      .hero-photo-col {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+
+      @media (min-width: 1024px) {
+        .hero-copy-col {
+          grid-column: span 7 / span 7;
+        }
+        .hero-photo-col {
+          grid-column: span 5 / span 5;
+        }
+      }
+
+      .eyebrow-row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.75rem;
+        margin-bottom: 1.5rem;
+        font-size: 0.75rem;
+        font-weight: 500;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+      }
+
+      .eyebrow-dot {
+        color: var(--accent-soft);
+      }
+
+      .hero-title {
+        font-family: var(--font-display);
+        font-size: clamp(2.2rem, 3.9vw, 3.65rem);
+        font-weight: 500;
+        line-height: 1.15;
+        letter-spacing: -0.01em;
+        color: var(--text-heading);
+      }
+
+      .accent-italic {
+        font-style: italic;
+        font-weight: 400;
+        color: var(--accent-primary);
+      }
+
+      .hero-lead {
+        margin-top: 1.75rem;
+        max-width: 52ch;
+        font-size: 1rem;
+        line-height: 1.75;
+        color: var(--text-body);
+      }
+
+      @media (min-width: 640px) {
+        .hero-lead {
+          font-size: 1.0625rem;
+        }
+      }
+
+      .hero-lead strong {
+        font-weight: 600;
+        color: var(--text-heading);
+      }
+
+      .hero-cta-group {
+        margin-top: 2.5rem;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 1rem;
+      }
+
+      .hero-cta-group .btn-primary,
+      .hero-cta-group .btn-secondary {
+        width: 100%;
+      }
+
+      @media (min-width: 640px) {
+        .hero-cta-group .btn-primary,
+        .hero-cta-group .btn-secondary {
+          width: auto;
+        }
+      }
+
+      .photo-frame-card {
+        width: 100%;
+        border-radius: var(--radius-frame);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-canvas);
+        padding: 0.75rem;
+      }
+
+      @media (min-width: 640px) {
+        .photo-frame-card {
+          padding: 1rem;
+        }
+      }
+
+      .hero-photo-box {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 3 / 4;
+        overflow: hidden;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-surface-blue);
+      }
+
+      .hero-photo-img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: 50% 24%;
+      }
+
+      .photo-fallback {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        padding: 2rem;
+        text-align: center;
+      }
+
+      .photo-fallback-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 3.5rem;
+        height: 3.5rem;
+        margin-bottom: 1rem;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-canvas);
+        color: var(--accent-primary);
+      }
+
+      .photo-caption {
+        margin-top: 0.875rem;
+        padding-top: 0.75rem;
+        border-top: 1px solid var(--border-hairline);
+        font-size: 0.75rem;
+        line-height: 1.6;
+        color: var(--text-muted);
+      }
+
+      .pillars-strip {
+        margin-top: 3.5rem;
+        display: grid;
+        grid-template-columns: 1fr;
+        border-radius: var(--radius-frame);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-canvas);
+      }
+
+      .pillar-item {
+        padding: 1.25rem 1.5rem;
+      }
+
+      .pillar-item + .pillar-item {
+        border-top: 1px solid var(--border-hairline);
+      }
+
+      @media (min-width: 640px) {
+        .pillars-strip {
+          margin-top: 4rem;
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+
+        .pillar-item + .pillar-item {
+          border-top: none;
+          border-left: 1px solid var(--border-hairline);
+        }
+      }
+
+      .pillar-kicker {
+        font-size: 0.75rem;
+        font-weight: 500;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+      }
+
+      .pillar-text {
+        margin-top: 0.375rem;
+        font-size: 0.875rem;
+        font-weight: 500;
+        color: var(--text-heading);
+      }
+
+      /* About Section */
+      .about-section {
+        border-top: 1px solid var(--border-hairline);
+        border-bottom: 1px solid var(--border-hairline);
+        background-color: var(--bg-surface-warm);
+      }
+
+      .about-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 3rem;
+        align-items: center;
+      }
+
+      @media (min-width: 1024px) {
+        .about-grid {
+          grid-template-columns: repeat(12, minmax(0, 1fr));
+          gap: 4rem;
+        }
+        .about-media-col {
+          grid-column: span 5 / span 5;
+        }
+        .about-text-col {
+          grid-column: span 7 / span 7;
+        }
+      }
+
+      .clinic-stage {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 4 / 5;
+        overflow: hidden;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-surface-blue);
+      }
+
+      .clinic-slide {
+        pointer-events: none;
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+        opacity: 0;
+        z-index: 0;
+        will-change: opacity, transform;
+      }
+
+      .clinic-slide[data-pan="left"] {
+        transform: scale(1.08) translateX(-6px);
+      }
+
+      .clinic-slide[data-pan="right"] {
+        transform: scale(1.08) translateX(6px);
+      }
+
+      .clinic-slide.is-prev {
+        opacity: 1;
+        transform: scale(1) translateX(0);
+        z-index: 1;
+        transition: none;
+      }
+
+      .clinic-slide.is-active {
+        opacity: 1;
+        transform: scale(1) translateX(0);
+        z-index: 2;
+        transition:
+          opacity 1.2s cubic-bezier(0.22, 1, 0.36, 1),
+          transform 4.8s ease-out;
+      }
+
+      .section-kicker {
+        margin-bottom: 1rem;
+        font-size: 0.75rem;
+        font-weight: 500;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+      }
+
+      .section-title {
+        font-family: var(--font-display);
+        font-size: clamp(1.95rem, 3.2vw, 2.85rem);
+        font-weight: 500;
+        line-height: 1.18;
+        color: var(--text-heading);
+      }
+
+      .about-quote {
+        margin-top: 2rem;
+        padding-block: 1.25rem;
+        border-top: 1px solid var(--border-hairline);
+        border-bottom: 1px solid var(--border-hairline);
+        font-family: var(--font-display);
+        font-size: 1.25rem;
+        font-style: italic;
+        line-height: 1.625;
+        color: var(--text-heading);
+      }
+
+      @media (min-width: 640px) {
+        .about-quote {
+          font-size: 1.5rem;
+        }
+      }
+
+      .about-prose {
+        margin-top: 1.75rem;
+        max-width: 60ch;
+        display: flex;
+        flex-direction: column;
+        gap: 1.25rem;
+        font-size: 1rem;
+        line-height: 1.75;
+        color: var(--text-body);
+      }
+
+      .about-facts {
+        margin-top: 2.5rem;
+        padding-top: 1.75rem;
+        border-top: 1px solid var(--border-hairline);
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+
+      @media (min-width: 640px) {
+        .about-facts {
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+      }
+
+      .fact-label {
+        font-size: 0.75rem;
+        font-weight: 500;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+      }
+
+      .fact-value {
+        margin-top: 0.375rem;
+        font-size: 0.875rem;
+        font-weight: 500;
+        color: var(--text-heading);
+      }
+
+      /* Practice Areas */
+      .practice-section {
+        background-color: var(--bg-canvas);
+      }
+
+      .practice-header {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 1.5rem;
+        padding-bottom: 2.5rem;
+        border-bottom: 1px solid var(--border-hairline);
+      }
+
+      @media (min-width: 1024px) {
+        .practice-header {
+          flex-direction: row;
+          align-items: flex-end;
+        }
+      }
+
+      .practice-header-title-wrap {
+        max-width: 42rem;
+      }
+
+      .practice-header-sub {
+        max-width: 40ch;
+        font-size: 0.875rem;
+        line-height: 1.7;
+        color: var(--text-muted);
+      }
+
+      .practice-grid {
+        margin-top: 3rem;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+
+      @media (min-width: 768px) {
+        .practice-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
+      .practice-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 100%;
+        padding: 2rem;
+      }
+
+      @media (min-width: 640px) {
+        .practice-card {
+          padding: 2.5rem;
+        }
+      }
+
+      .practice-card:hover {
+        background-color: rgba(237, 246, 251, 0.45);
+      }
+
+      .practice-card-top {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 1rem;
+        padding-bottom: 1.75rem;
+        border-bottom: 1px solid var(--border-hairline);
+      }
+
+      .practice-index {
+        font-family: var(--font-display);
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 1;
+        color: var(--accent-soft);
+        transition: color 200ms ease;
+      }
+
+      .practice-card:hover .practice-index {
+        color: var(--accent-primary);
+      }
+
+      .practice-icon-box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 3rem;
+        height: 3rem;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-surface-blue);
+        color: var(--text-heading);
+        transition: background-color 200ms ease;
+      }
+
+      .practice-card:hover .practice-icon-box {
+        background-color: var(--bg-canvas);
+      }
+
+      .practice-card-title {
+        margin-top: 2rem;
+        font-family: var(--font-display);
+        font-size: 2rem;
+        font-weight: 500;
+        line-height: 1.25;
+        color: var(--text-heading);
+      }
+
+      .practice-card-desc {
+        margin-top: 1rem;
+        font-size: 1rem;
+        line-height: 1.75;
+        color: var(--text-body);
+      }
+
+      .practice-keypoints {
+        margin-top: 2rem;
+        padding-top: 1.25rem;
+        border-top: 1px solid var(--border-hairline);
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.25rem 0.625rem;
+        font-size: 0.75rem;
+        font-weight: 500;
+        color: var(--text-muted);
+      }
+
+      .keypoint-item {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.625rem;
+      }
+
+      /* Contact Section */
+      .contact-section {
+        border-top: 1px solid var(--border-hairline);
+        background-color: var(--bg-surface-blue);
+      }
+
+      .contact-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 2rem;
+        align-items: stretch;
+      }
+
+      @media (min-width: 1024px) {
+        .contact-grid {
+          grid-template-columns: repeat(12, minmax(0, 1fr));
+          gap: 3rem;
+        }
+        .contact-col {
+          grid-column: span 6 / span 6;
+          display: flex;
+          flex-direction: column;
+        }
+      }
+
+      .contact-primary-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+        height: 100%;
+        border-radius: var(--radius-frame);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-canvas);
+        padding: 1.75rem;
+      }
+
+      @media (min-width: 640px) {
+        .contact-primary-card {
+          padding: 2.5rem;
+        }
+      }
+
+      .contact-lead {
+        margin-top: 1.25rem;
+        max-width: 44ch;
+        font-size: 1rem;
+        line-height: 1.7;
+        color: var(--text-body);
+      }
+
+      .contact-cta-block {
+        margin-top: 2.25rem;
+        padding-top: 1.75rem;
+        border-top: 1px solid var(--border-hairline);
+      }
+
+      .contact-cta-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.875rem;
+      }
+
+      .contact-cta-buttons .btn-primary,
+      .contact-cta-buttons .btn-secondary {
+        width: 100%;
+      }
+
+      @media (min-width: 640px) {
+        .contact-cta-buttons .btn-primary,
+        .contact-cta-buttons .btn-secondary {
+          width: auto;
+        }
+      }
+
+      .contact-phone-note {
+        margin-top: 1rem;
+        font-size: 0.75rem;
+        line-height: 1.6;
+        color: var(--text-muted);
+      }
+
+      .contact-phone-note strong {
+        font-weight: 500;
+        color: var(--text-heading);
+      }
+
+      .instagram-list {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+      }
+
+      .instagram-card {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+        min-height: 84px;
+        padding: 1rem 1.5rem;
+      }
+
+      .instagram-card:hover {
+        background-color: var(--bg-surface-warm);
+      }
+
+      .instagram-card-left {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        min-width: 0;
+      }
+
+      .instagram-icon-box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 2.75rem;
+        height: 2.75rem;
+        flex-shrink: 0;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-surface-blue);
+        color: var(--text-heading);
+        transition: background-color 200ms ease;
+      }
+
+      .instagram-card:hover .instagram-icon-box {
+        background-color: var(--bg-canvas);
+      }
+
+      .instagram-handle {
+        font-size: 1rem;
+        font-weight: 600;
+        color: var(--text-heading);
+      }
+
+      .instagram-sub {
+        margin-top: 0.125rem;
+        font-size: 0.875rem;
+        color: var(--text-muted);
+      }
+
+      .arrow-icon {
+        flex-shrink: 0;
+        color: var(--text-muted);
+        transition:
+          transform 200ms ease,
+          color 200ms ease;
+      }
+
+      .instagram-card:hover .arrow-icon,
+      .minimap-card:hover .arrow-icon {
+        transform: translate(2px, -2px);
+        color: var(--text-heading);
+      }
+
+      .clinic-info-card {
+        margin-top: 1.5rem;
+        padding: 1.5rem;
+        font-size: 0.875rem;
+        color: var(--text-body);
+      }
+
+      .clinic-address-row {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 1rem;
+        padding-bottom: 1.25rem;
+        border-bottom: 1px solid var(--border-hairline);
+      }
+
+      @media (min-width: 640px) {
+        .clinic-address-row {
+          flex-direction: row;
+          align-items: flex-start;
+        }
+      }
+
+      .info-icon-row {
+        display: flex;
+        align-items: flex-start;
+        gap: 0.75rem;
+      }
+
+      .info-icon {
+        margin-top: 0.125rem;
+        flex-shrink: 0;
+        color: var(--accent-primary);
+      }
+
+      .info-kicker {
+        font-size: 0.75rem;
+        font-weight: 500;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+      }
+
+      .info-address-text {
+        margin-top: 0.375rem;
+        font-weight: 500;
+        line-height: 1.625;
+        color: var(--text-heading);
+      }
+
+      .btn-maps-inline {
+        min-height: 40px;
+        padding: 0.5rem 0.875rem;
+        font-size: 0.75rem;
+      }
+
+      .hours-block {
+        margin-top: 1.25rem;
+        display: flex;
+        align-items: flex-start;
+        gap: 0.75rem;
+      }
+
+      .hours-grid {
+        margin-top: 0.625rem;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 0.75rem;
+      }
+
+      @media (min-width: 640px) {
+        .hours-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
+      .hour-slot {
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-surface-warm);
+        padding: 0.625rem 0.875rem;
+      }
+
+      .hour-days {
+        font-size: 0.75rem;
+        font-weight: 500;
+        color: var(--text-heading);
+      }
+
+      .hour-time {
+        margin-top: 0.125rem;
+        font-size: 0.75rem;
+        color: var(--text-muted);
+      }
+
+      /* Mini Map Card */
+      .minimap-wrap {
+        margin-top: 2rem;
+      }
+
+      .minimap-card {
+        display: block;
+        scroll-margin-top: calc(var(--header-height) + 20px);
+        overflow: hidden;
+      }
+
+      .minimap-card:hover {
+        border-color: var(--accent-primary);
+      }
+
+      .minimap-viewport {
+        position: relative;
+        width: 100%;
+        height: 230px;
+        overflow: hidden;
+        background-color: var(--bg-surface-blue);
+      }
+
+      @media (min-width: 640px) {
+        .minimap-viewport {
+          height: 260px;
+        }
+      }
+
+      .minimap-grid-fallback {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .minimap-svg {
+        width: 100%;
+        height: 100%;
+        opacity: 0.65;
+      }
+
+      .minimap-iframe {
+        pointer-events: none;
+        position: relative;
+        z-index: 10;
+        width: 100%;
+        height: 100%;
+        border: 0;
+        opacity: 0;
+        transition: opacity 300ms ease;
+      }
+
+      .minimap-iframe.is-loaded {
+        opacity: 0.95;
+      }
+
+      .minimap-pin-overlay {
+        pointer-events: none;
+        position: absolute;
+        inset: 0;
+        z-index: 10;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .minimap-pin-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 2.75rem;
+        height: 2.75rem;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-canvas);
+        color: var(--accent-primary);
+      }
+
+      .minimap-pin-label {
+        margin-top: 0.5rem;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: rgba(255, 255, 255, 0.95);
+        padding: 0.25rem 0.75rem;
+        font-size: 0.75rem;
+        font-weight: 500;
+        color: var(--text-heading);
+      }
+
+      .minimap-bottom-fade {
+        pointer-events: none;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 20;
+        height: 3rem;
+        background: linear-gradient(to top, rgba(255, 255, 255, 0.55), transparent);
+      }
+
+      .minimap-footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 0.75rem;
+        border-top: 1px solid var(--border-hairline);
+        background-color: var(--bg-canvas);
+        padding: 1rem 1.5rem;
+      }
+
+      @media (min-width: 640px) {
+        .minimap-footer {
+          flex-direction: row;
+          align-items: center;
+        }
+      }
+
+      .minimap-footer-left {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      }
+
+      .minimap-footer-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 2.25rem;
+        height: 2.25rem;
+        flex-shrink: 0;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-surface-blue);
+        color: var(--text-heading);
+      }
+
+      .minimap-footer-title {
+        font-size: 0.875rem;
+        font-weight: 500;
+        color: var(--text-heading);
+      }
+
+      .minimap-footer-sub {
+        font-size: 0.75rem;
+        color: var(--text-muted);
+      }
+
+      .minimap-route-cta {
+        display: inline-flex;
+        flex-shrink: 0;
+        align-items: center;
+        gap: 0.375rem;
+        font-size: 0.75rem;
+        font-weight: 600;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        color: var(--accent-primary);
+        transition: color var(--transition-fast);
+      }
+
+      .minimap-card:hover .minimap-route-cta {
+        color: var(--text-heading);
+      }
+
+      /* Footer */
+      .site-footer {
+        border-top: 1px solid var(--border-hairline);
+        background-color: var(--bg-canvas);
+        padding-top: 3.5rem;
+        padding-bottom: calc(3.5rem + var(--mobile-bottom-bar-height) + env(safe-area-inset-bottom));
+      }
+
+      @media (min-width: 768px) {
+        .site-footer {
+          padding-block: 4rem;
+        }
+      }
+
+      .footer-top {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 2rem;
+        padding-bottom: 2.5rem;
+        border-bottom: 1px solid var(--border-hairline);
+      }
+
+      @media (min-width: 768px) {
+        .footer-top {
+          flex-direction: row;
+          align-items: flex-end;
+        }
+      }
+
+      .footer-brand {
+        font-family: var(--font-display);
+        font-size: 1.5rem;
+        font-weight: 500;
+        letter-spacing: -0.02em;
+        color: var(--text-heading);
+      }
+
+      @media (min-width: 640px) {
+        .footer-brand {
+          font-size: 1.75rem;
+        }
+      }
+
+      .footer-meta {
+        margin-top: 0.625rem;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.25rem 0.75rem;
+        font-size: 0.875rem;
+        color: var(--text-muted);
+      }
+
+      .footer-links {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.75rem 1.75rem;
+        font-size: 0.875rem;
+      }
+
+      .footer-location-trigger {
+        color: var(--accent-primary);
+      }
+
+      .footer-bottom {
+        margin-top: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 0.75rem;
+        font-size: 0.75rem;
+        line-height: 1.6;
+        color: var(--text-muted);
+      }
+
+      @media (min-width: 640px) {
+        .footer-bottom {
+          flex-direction: row;
+          align-items: center;
+        }
+      }
+
+      /* Mobile Bottom Bar */
+      .mobile-bottom-bar {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 40;
+        border-top: 1px solid var(--border-hairline);
+        background-color: rgba(255, 255, 255, 0.96);
+        padding-bottom: env(safe-area-inset-bottom);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+      }
+
+      @media (min-width: 768px) {
+        .mobile-bottom-bar {
+          display: none;
+        }
+      }
+
+      .mobile-bottom-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        height: 52px;
+        max-width: 1200px;
+        margin-inline: auto;
+      }
+
+      .mobile-bottom-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 0.25rem;
+        min-height: 44px;
+        padding-inline: 0.5rem;
+        font-size: 0.6875rem;
+        line-height: 1;
+        letter-spacing: 0.01em;
+        white-space: nowrap;
+        transition:
+          background-color 150ms ease,
+          color 150ms ease;
+      }
+
+      .mobile-bottom-item + .mobile-bottom-item {
+        border-left: 1px solid var(--border-hairline);
+      }
+
+      .mobile-bottom-item:hover,
+      .mobile-bottom-item:active {
+        background-color: var(--bg-surface-blue);
+      }
+
+      .mobile-bottom-item--whatsapp {
+        color: var(--accent-primary);
+        font-weight: 600;
+      }
+
+      .mobile-bottom-item--map {
+        color: var(--text-heading);
+        font-weight: 500;
+      }
+
+      .mobile-bottom-item--top {
+        color: var(--text-muted);
+        font-weight: 500;
+      }
+
+      .mobile-bottom-item--top.is-active {
+        color: var(--text-heading);
+      }
+
+      /* Desktop Back to Top Button */
+      .back-to-top {
+        position: fixed;
+        right: 2rem;
+        bottom: 2rem;
+        z-index: 30;
+        display: none;
+        align-items: center;
+        gap: 0.5rem;
+        height: 44px;
+        padding-inline: 0.875rem;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: rgba(255, 255, 255, 0.9);
+        -webkit-backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px);
+        font-size: 0.75rem;
+        font-weight: 500;
+        letter-spacing: 0.04em;
+        color: var(--text-heading);
+        opacity: 0;
+        pointer-events: none;
+        transform: translateY(12px) scale(0.96);
+        transition:
+          opacity 220ms cubic-bezier(0.16, 1, 0.3, 1),
+          transform 220ms cubic-bezier(0.16, 1, 0.3, 1),
+          border-color var(--transition-fast),
+          background-color var(--transition-fast);
+      }
+
+      @media (min-width: 768px) {
+        .back-to-top {
+          display: inline-flex;
+        }
+      }
+
+      .back-to-top.is-visible {
+        opacity: 1;
+        pointer-events: auto;
+        transform: translateY(0) scale(1);
+      }
+
+      .back-to-top:hover {
+        border-color: var(--accent-soft);
+        background-color: var(--bg-surface-blue);
+      }
+
+      .back-to-top:active {
+        transform: translateY(1px);
+      }
+
+      /* Static Location Drawer */
+      .location-drawer-overlay {
+        position: fixed;
+        inset: 0;
+        z-index: 50;
+        display: flex;
+        justify-content: flex-end;
+        background-color: rgba(53, 79, 96, 0.35);
+        -webkit-backdrop-filter: blur(2px);
+        backdrop-filter: blur(2px);
+      }
+
+      .location-drawer-panel {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        max-width: 34rem;
+        height: 100%;
+        border-left: 1px solid var(--border-hairline);
+        background-color: var(--bg-canvas);
+      }
+
+      .drawer-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+        padding: 1.25rem 1.5rem;
+        border-bottom: 1px solid var(--border-hairline);
+      }
+
+      .drawer-kicker {
+        font-size: 0.75rem;
+        font-weight: 500;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+      }
+
+      .drawer-title {
+        font-family: var(--font-display);
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: var(--text-heading);
+      }
+
+      .drawer-close {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 44px;
+        height: 44px;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        color: var(--text-body);
+        transition:
+          background-color var(--transition-fast),
+          color var(--transition-fast);
+      }
+
+      .drawer-close:hover {
+        background-color: var(--bg-surface-blue);
+        color: var(--text-heading);
+      }
+
+      .drawer-body {
+        flex: 1;
+        overflow-y: auto;
+        padding: 1.5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+      }
+
+      .drawer-address-box {
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: rgba(237, 246, 251, 0.55);
+        padding: 1rem 1.125rem;
+      }
+
+      .drawer-address-title {
+        font-size: 0.9375rem;
+        font-weight: 600;
+        color: var(--text-heading);
+      }
+
+      .drawer-address-sub {
+        margin-top: 0.375rem;
+        font-size: 0.8125rem;
+        line-height: 1.6;
+        color: var(--text-body);
+      }
+
+      .drawer-map-frame {
+        width: 100%;
+        height: 240px;
+        overflow: hidden;
+        border-radius: var(--radius-subtle);
+        border: 1px solid var(--border-hairline);
+        background-color: var(--bg-surface-blue);
+      }
+
+      .drawer-map-frame iframe {
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+
+      .drawer-actions {
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+      }
+
+      .copy-feedback {
+        font-size: 0.75rem;
+        font-weight: 500;
+        color: var(--accent-primary);
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        html {
+          scroll-behavior: auto;
+        }
+
+        *,
+        *::before,
+        *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+        }
+
+        .reveal {
+          opacity: 1;
+          transform: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#conteudo-principal" class="sr-only skip-link">
+      Ir para o conteúdo principal
+    </a>
+
+    <!-- Cabeçalho Responsivo -->
+    <header id="site-header" class="site-header">
+      <div class="header-inner">
+        <a href="#inicio" id="brand-link" class="brand-wordmark">
+          Dra. Marta Daniele Menezes
+        </a>
+
+        <nav aria-label="Navegação principal" class="desktop-nav">
+          <a href="#inicio" class="nav-link-editorial">Início</a>
+          <a href="#sobre" class="nav-link-editorial">Sobre</a>
+          <a href="#atuacao" class="nav-link-editorial">Atuação</a>
+          <a href="#contato" class="nav-link-editorial">Contato</a>
+        </nav>
+
+        <div class="header-actions">
+          <a
+            href="https://wa.me/557999724010?text=Ol%C3%A1%2C%20Dra.%20Marta!%20Tudo%20bem%3F%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20obter%20informa%C3%A7%C3%B5es%20sobre%20atendimento."
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn-primary header-desktop-cta"
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z" />
+            </svg>
+            <span>WhatsApp</span>
+          </a>
+
+          <button
+            type="button"
+            id="mobile-menu-toggle"
+            class="mobile-menu-toggle"
+            aria-expanded="false"
+            aria-controls="mobile-navigation-drawer"
+            aria-label="Abrir menu"
+          >
+            <svg id="icon-menu-open" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="4" x2="20" y1="12" y2="12" />
+              <line x1="4" x2="20" y1="6" y2="6" />
+              <line x1="4" x2="20" y1="18" y2="18" />
+            </svg>
+            <svg id="icon-menu-close" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" hidden>
+              <path d="M18 6 6 18" />
+              <path d="m6 6 12 12" />
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Painel sobreposto compacto para dispositivos móveis -->
+      <div id="mobile-menu-layer" class="mobile-menu-layer" hidden>
+        <div id="mobile-menu-backdrop" class="mobile-menu-backdrop" aria-hidden="true"></div>
+        <div
+          id="mobile-navigation-drawer"
+          role="dialog"
+          aria-modal="true"
+          aria-label="Menu de navegação"
+          class="mobile-menu-panel"
+        >
+          <nav aria-label="Navegação móvel" class="mobile-nav-list">
+            <a href="#inicio" class="mobile-nav-link" data-mobile-nav>Início</a>
+            <a href="#sobre" class="mobile-nav-link" data-mobile-nav>Sobre</a>
+            <a href="#atuacao" class="mobile-nav-link" data-mobile-nav>Atuação</a>
+            <a href="#contato" class="mobile-nav-link" data-mobile-nav>Contato</a>
+          </nav>
+
+          <div class="mobile-menu-actions">
+            <button type="button" class="btn-secondary w-full" data-open-location>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="12" cy="12" r="10" />
+                <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76" />
+              </svg>
+              <span>Localização em Aracaju</span>
+            </button>
+
+            <a
+              href="https://wa.me/557999724010?text=Ol%C3%A1%2C%20Dra.%20Marta!%20Tudo%20bem%3F%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20obter%20informa%C3%A7%C3%B5es%20sobre%20atendimento."
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn-primary w-full"
+              data-close-mobile-menu
+            >
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z" />
+              </svg>
+              <span>Falar pelo WhatsApp</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main id="conteudo-principal">
+      <!-- Seção Hero -->
+      <section id="inicio" class="hero-section">
+        <div class="hero-blue-band" aria-hidden="true"></div>
+
+        <div class="container hero-container">
+          <div class="hero-grid">
+            <div class="hero-copy-col">
+              <div class="eyebrow-row">
+                <span>Cirurgiã-dentista</span>
+                <span class="eyebrow-dot" aria-hidden="true">·</span>
+                <span>Aracaju — Sergipe, Brasil</span>
+              </div>
+
+              <h1 class="hero-title headline-balance">
+                Um cuidado especial com a
+                <em class="accent-italic">saúde e a estética</em>
+                do seu sorriso.
+              </h1>
+
+              <p class="hero-lead">
+                Conheça o trabalho da
+                <strong>Dra. Marta Daniele Menezes</strong>
+                e sua atuação em dentística restauradora e estética do sorriso,
+                com atenção individualizada e cuidado em cada etapa.
+              </p>
+
+              <div class="hero-cta-group">
+                <a
+                  href="https://wa.me/557999724010?text=Ol%C3%A1%2C%20Dra.%20Marta!%20Tudo%20bem%3F%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20obter%20informa%C3%A7%C3%B5es%20sobre%20atendimento."
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn-primary"
+                >
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z" />
+                  </svg>
+                  <span>Falar pelo WhatsApp</span>
+                </a>
+
+                <a href="#atuacao" class="btn-secondary">
+                  <span>Conhecer minha atuação</span>
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="M12 5v14" />
+                    <path d="m19 12-7 7-7-7" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+
+            <div class="hero-photo-col">
+              <figure class="photo-frame-card">
+                <div class="hero-photo-box">
+                  <img
+                    id="hero-photo-img"
+                    src="/assets/aistudio/WhatsApp_Image_2026-11-18_at_10.34.13_PM_e9d70b4d.jpeg"
+                    alt="Fotografia da Dra. Marta Daniele Menezes sorrindo durante evento do CRO-SE"
+                    referrerpolicy="no-referrer"
+                    loading="eager"
+                    class="hero-photo-img"
+                  />
+                  <div id="hero-photo-fallback" class="photo-fallback" hidden>
+                    <div class="photo-fallback-icon">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" />
+                        <circle cx="12" cy="7" r="4" />
+                      </svg>
+                    </div>
+                    <p class="font-display" style="font-size: 1.5rem; color: var(--text-heading);">
+                      Dra. Marta Daniele Menezes
+                    </p>
+                    <p style="margin-top: 0.5rem; max-width: 28ch; font-size: 0.75rem; color: var(--text-muted);">
+                      Cirurgiã-dentista · Aracaju — SE
+                    </p>
+                  </div>
+                </div>
+                <figcaption class="photo-caption">
+                  Registro em evento do CRO-SE · Aracaju — SE
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+
+          <!-- Faixa estrutural de pilares abaixo do Hero -->
+          <div class="pillars-strip">
+            <div class="pillar-item">
+              <p class="pillar-kicker">01 · Abordagem</p>
+              <p class="pillar-text">Atenção individualizada em cada etapa</p>
+            </div>
+            <div class="pillar-item">
+              <p class="pillar-kicker">02 · Frentes de cuidado</p>
+              <p class="pillar-text">Dentística restauradora e estética do sorriso</p>
+            </div>
+            <div class="pillar-item">
+              <p class="pillar-kicker">03 · Localidade</p>
+              <p class="pillar-text">Aracaju — Sergipe, Brasil</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Seção Sobre & Galeria Contínua do Consultório -->
+      <section id="sobre" class="section-rhythm about-section">
+        <div class="container">
+          <div class="about-grid">
+            <div class="about-media-col reveal">
+              <figure class="photo-frame-card">
+                <div class="clinic-stage" id="clinic-stage">
+                  <img
+                    src="/assets/aistudio/WhatsApp_Image_2026-11-18_at_11.05.10_PM__1__c82c03ce.jpeg"
+                    alt="Consultório odontológico e mesa de atendimento no Instituto Odontomed em Aracaju"
+                    data-caption="Consultório no Instituto Odontomed · Bairro São José"
+                    data-pan="left"
+                    referrerpolicy="no-referrer"
+                    loading="eager"
+                    class="clinic-slide is-active"
+                  />
+                  <img
+                    src="/assets/aistudio/WhatsApp_Image_2026-11-18_at_11.05.11_PM_d4fe693c.jpeg"
+                    alt="Cadeira odontológica e ambiente clínico acolhedor no Instituto Odontomed"
+                    data-caption="Ambiente clínico preparado para atendimento individualizado"
+                    data-pan="right"
+                    referrerpolicy="no-referrer"
+                    loading="eager"
+                    class="clinic-slide"
+                  />
+                  <img
+                    src="/assets/aistudio/WhatsApp_Image_2026-11-18_at_11.05.10_PM_633ed259.jpeg"
+                    alt="Estrutura e bancada de apoio clínico do consultório da Dra. Marta"
+                    data-caption="Estrutura clínica organizada e iluminação confortável"
+                    data-pan="left"
+                    referrerpolicy="no-referrer"
+                    loading="eager"
+                    class="clinic-slide"
+                  />
+                  <img
+                    src="/assets/aistudio/WhatsApp_Image_2026-11-18_at_11.03.41_PM_91f8554c.jpeg"
+                    alt="Espaço de recepção e consultório da Dra. Marta Daniele Menezes"
+                    data-caption="Recepção acolhedora no consultório · Aracaju — SE"
+                    data-pan="right"
+                    referrerpolicy="no-referrer"
+                    loading="eager"
+                    class="clinic-slide"
+                  />
+
+                  <div id="clinic-fallback" class="photo-fallback architectural-grid-bg" hidden>
+                    <p class="font-display" style="font-size: 1.5rem; font-weight: 500; color: var(--text-heading);">
+                      Instituto Odontomed
+                    </p>
+                    <p style="margin-top: 0.5rem; font-size: 0.875rem; color: var(--text-muted);">
+                      Aracaju — SE
+                    </p>
+                  </div>
+                </div>
+
+                <figcaption id="clinic-caption" class="photo-caption">
+                  Consultório no Instituto Odontomed · Bairro São José
+                </figcaption>
+              </figure>
+            </div>
+
+            <div class="about-text-col reveal">
+              <p class="section-kicker">Apresentação</p>
+
+              <h2 class="section-title headline-balance">
+                Prazer,
+                <em class="accent-italic">sou a Dra. Marta.</em>
+              </h2>
+
+              <blockquote class="about-quote">
+                “Um cuidado odontológico pautado pela escuta atenta, clareza nas
+                conversas e respeito ao tempo e às necessidades de cada pessoa.”
+              </blockquote>
+
+              <div class="about-prose">
+                <p>
+                  Acredito em um atendimento conduzido com tranquilidade, diálogo
+                  transparente e atenção individualizada em cada etapa do cuidado
+                  odontológico.
+                </p>
+                <p>
+                  Em Aracaju, no Instituto Odontomed, dedico minha prática clínica
+                  à dentística restauradora e à estética do sorriso, acompanhando
+                  cada paciente com cuidado próximo e criterioso.
+                </p>
+              </div>
+
+              <dl class="about-facts">
+                <div>
+                  <dt class="fact-label">Cidade</dt>
+                  <dd class="fact-value">Aracaju — SE</dd>
+                </div>
+                <div>
+                  <dt class="fact-label">Registro</dt>
+                  <dd class="fact-value">CRO 1102/SE</dd>
+                </div>
+                <div>
+                  <dt class="fact-label">Consultório</dt>
+                  <dd class="fact-value">Instituto Odontomed · São José</dd>
+                </div>
+              </dl>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Seção Áreas de Atuação -->
+      <section id="atuacao" class="section-rhythm practice-section">
+        <div class="container">
+          <div class="practice-header reveal">
+            <div class="practice-header-title-wrap">
+              <p class="section-kicker">Áreas de atuação</p>
+              <h2 class="section-title headline-balance">
+                Cuidado clínico com
+                <em class="accent-italic">atenção aos detalhes</em>
+                funcionais e estéticos.
+              </h2>
+            </div>
+
+            <p class="practice-header-sub">
+              Atuação concentrada em duas frentes principais, conduzidas com
+              planejamento individualizado e diálogo transparente.
+            </p>
+          </div>
+
+          <div class="practice-grid">
+            <div class="reveal">
+              <article class="editorial-card practice-card">
+                <div>
+                  <div class="practice-card-top">
+                    <span class="practice-index tabular-nums">01</span>
+                    <div class="practice-icon-box">
+                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <polygon points="12 2 2 7 12 12 22 7 12 2" />
+                        <polyline points="2 17 12 22 22 17" />
+                        <polyline points="2 12 12 17 22 12" />
+                      </svg>
+                    </div>
+                  </div>
+
+                  <h3 class="practice-card-title">Dentística Restauradora</h3>
+                  <p class="practice-card-desc">
+                    Atuação voltada aos cuidados restauradores dos dentes,
+                    considerando suas características funcionais e estéticas.
+                  </p>
+                </div>
+
+                <div class="practice-keypoints">
+                  <span class="keypoint-item"><span>Cuidados restauradores</span></span>
+                  <span class="keypoint-item"><span aria-hidden="true">·</span><span>Equilíbrio funcional</span></span>
+                  <span class="keypoint-item"><span aria-hidden="true">·</span><span>Atenção estética</span></span>
+                </div>
+              </article>
+            </div>
+
+            <div class="reveal">
+              <article class="editorial-card practice-card">
+                <div>
+                  <div class="practice-card-top">
+                    <span class="practice-index tabular-nums">02</span>
+                    <div class="practice-icon-box">
+                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z" />
+                        <line x1="16" x2="2" y1="8" y2="22" />
+                        <line x1="17.5" x2="9" y1="15" y2="15" />
+                      </svg>
+                    </div>
+                  </div>
+
+                  <h3 class="practice-card-title">Estética do Sorriso</h3>
+                  <p class="practice-card-desc">
+                    Cuidados voltados à estética do sorriso, respeitando as
+                    características e necessidades individuais.
+                  </p>
+                </div>
+
+                <div class="practice-keypoints">
+                  <span class="keypoint-item"><span>Planejamento individual</span></span>
+                  <span class="keypoint-item"><span aria-hidden="true">·</span><span>Respeito às características pessoais</span></span>
+                  <span class="keypoint-item"><span aria-hidden="true">·</span><span>Acompanhamento próximo</span></span>
+                </div>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Seção Contato & Localização -->
+      <section id="contato" class="section-rhythm contact-section">
+        <div class="container">
+          <div class="contact-grid">
+            <div class="contact-col reveal">
+              <div class="contact-primary-card">
+                <div>
+                  <p class="section-kicker">Atendimento &amp; Contato</p>
+                  <h2 class="section-title headline-balance">
+                    Vamos <em class="accent-italic">conversar?</em>
+                  </h2>
+                  <p class="contact-lead">
+                    Entre em contato para obter informações e conhecer as
+                    possibilidades de atendimento.
+                  </p>
+                </div>
+
+                <div class="contact-cta-block">
+                  <div class="contact-cta-buttons">
+                    <a
+                      href="https://wa.me/557999724010?text=Ol%C3%A1%2C%20Dra.%20Marta!%20Tudo%20bem%3F%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20obter%20informa%C3%A7%C3%B5es%20sobre%20atendimento."
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="btn-primary"
+                    >
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z" />
+                      </svg>
+                      <span>Falar pelo WhatsApp</span>
+                    </a>
+
+                    <button type="button" class="btn-secondary" data-open-location>
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <circle cx="12" cy="12" r="10" />
+                        <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76" />
+                      </svg>
+                      <span>Localização em Aracaju</span>
+                    </button>
+                  </div>
+
+                  <p class="contact-phone-note">
+                    Atendimento direto via WhatsApp:
+                    <strong class="tabular-nums">(79) 9972-4010</strong>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="contact-col reveal">
+              <div>
+                <p class="section-kicker">Perfis oficiais no Instagram</p>
+
+                <div class="instagram-list">
+                  <a
+                    href="https://www.instagram.com/martadanielemenezes/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="editorial-card instagram-card"
+                  >
+                    <div class="instagram-card-left">
+                      <div class="instagram-icon-box">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                          <rect width="20" height="20" x="2" y="2" rx="5" ry="5" />
+                          <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+                          <line x1="17.5" x2="17.51" y1="6.5" y2="6.5" />
+                        </svg>
+                      </div>
+                      <div>
+                        <p class="instagram-handle">@martadanielemenezes</p>
+                        <p class="instagram-sub">Perfil pessoal e profissional</p>
+                      </div>
+                    </div>
+                    <svg class="arrow-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <path d="M7 7h10v10" />
+                      <path d="M7 17 17 7" />
+                    </svg>
+                  </a>
+
+                  <a
+                    href="https://www.instagram.com/dra.martadaniele_/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="editorial-card instagram-card"
+                  >
+                    <div class="instagram-card-left">
+                      <div class="instagram-icon-box">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                          <rect width="20" height="20" x="2" y="2" rx="5" ry="5" />
+                          <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+                          <line x1="17.5" x2="17.51" y1="6.5" y2="6.5" />
+                        </svg>
+                      </div>
+                      <div>
+                        <p class="instagram-handle">@dra.martadaniele_</p>
+                        <p class="instagram-sub">Perfil dedicado à odontologia</p>
+                      </div>
+                    </div>
+                    <svg class="arrow-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <path d="M7 7h10v10" />
+                      <path d="M7 17 17 7" />
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <div class="editorial-card clinic-info-card">
+                <div class="clinic-address-row">
+                  <div class="info-icon-row">
+                    <svg class="info-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
+                      <circle cx="12" cy="10" r="3" />
+                    </svg>
+                    <div>
+                      <p class="info-kicker">Local de atendimento</p>
+                      <p class="info-address-text">
+                        Rua Zaqueu Brandão, 250 — Instituto Odontomed, Bairro São José, Aracaju — SE
+                      </p>
+                    </div>
+                  </div>
+
+                  <a
+                    href="https://www.google.com/maps/dir/?api=1&destination=R.+Zaqueu+Brand%C3%A3o%2C+250+-+S%C3%A3o+Jos%C3%A9%2C+Aracaju+-+SE%2C+49015-330"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="btn-secondary btn-maps-inline"
+                  >
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
+                      <circle cx="12" cy="10" r="3" />
+                    </svg>
+                    <span>Traçar rota no Maps</span>
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <path d="M7 7h10v10" />
+                      <path d="M7 17 17 7" />
+                    </svg>
+                  </a>
+                </div>
+
+                <div class="hours-block">
+                  <svg class="info-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <circle cx="12" cy="12" r="10" />
+                    <polyline points="12 6 12 12 16 14" />
+                  </svg>
+                  <div style="width: 100%;">
+                    <p class="info-kicker">Horário de funcionamento</p>
+                    <div class="hours-grid">
+                      <div class="hour-slot">
+                        <p class="hour-days">Segunda, Quarta e Sexta</p>
+                        <p class="hour-time tabular-nums">Manhã · 09h às 12h</p>
+                      </div>
+                      <div class="hour-slot">
+                        <p class="hour-days">Terça e Quinta</p>
+                        <p class="hour-time tabular-nums">Tarde · 13h às 18h</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Mini mapa clicável no final da seção de contato -->
+          <div class="minimap-wrap reveal">
+            <a
+              id="mapa-consultorio"
+              href="https://www.google.com/maps/dir/?api=1&destination=R.+Zaqueu+Brand%C3%A3o%2C+250+-+S%C3%A3o+Jos%C3%A9%2C+Aracaju+-+SE%2C+49015-330"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Abrir no Google Maps: Rua Zaqueu Brandão, 250 — Instituto Odontomed, Bairro São José, Aracaju — SE"
+              class="editorial-card minimap-card"
+            >
+              <div class="minimap-viewport">
+                <div aria-hidden="true" class="architectural-grid-bg minimap-grid-fallback">
+                  <svg viewBox="0 0 800 260" class="minimap-svg" preserveAspectRatio="xMidYMid slice">
+                    <path d="M0 132 L800 118" stroke="#9bb8ca" stroke-width="14" fill="none" />
+                    <path d="M0 132 L800 118" stroke="#ffffff" stroke-width="10" fill="none" />
+                    <path d="M390 0 L412 260" stroke="#9bb8ca" stroke-width="12" fill="none" />
+                    <path d="M390 0 L412 260" stroke="#ffffff" stroke-width="8" fill="none" />
+                    <path d="M170 0 L190 260 M620 0 L602 260 M0 56 L800 48 M0 210 L800 198" stroke="#dcecf5" stroke-width="6" fill="none" />
+                  </svg>
+                </div>
+
+                <iframe
+                  id="minimap-iframe"
+                  title="Mapa de localização — Rua Zaqueu Brandão, 250 — Instituto Odontomed, Bairro São José, Aracaju — SE"
+                  src="https://www.google.com/maps/embed?origin=mfe&pb=!1m3!2m1!1sR.+Zaqueu+Brand%C3%A3o,+250+-+S%C3%A3o+Jos%C3%A9,+Aracaju+-+SE,+49015-330!6i17"
+                  loading="eager"
+                  referrerpolicy="no-referrer-when-downgrade"
+                  tabindex="-1"
+                  class="minimap-iframe"
+                ></iframe>
+
+                <div id="minimap-pin-overlay" class="minimap-pin-overlay">
+                  <div class="minimap-pin-icon">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
+                      <circle cx="12" cy="10" r="3" />
+                    </svg>
+                  </div>
+                  <span class="minimap-pin-label">Instituto Odontomed · Bairro São José</span>
+                </div>
+
+                <div aria-hidden="true" class="minimap-bottom-fade"></div>
+              </div>
+
+              <div class="minimap-footer">
+                <div class="minimap-footer-left">
+                  <div class="minimap-footer-icon">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
+                      <circle cx="12" cy="10" r="3" />
+                    </svg>
+                  </div>
+                  <div>
+                    <p class="minimap-footer-title">
+                      Rua Zaqueu Brandão, 250 — Instituto Odontomed, Bairro São José, Aracaju — SE
+                    </p>
+                    <p class="minimap-footer-sub">
+                      Clique no mapa para abrir o seletor de rotas no Google Maps já com o destino preenchido
+                    </p>
+                  </div>
+                </div>
+
+                <span class="minimap-route-cta">
+                  <span>Traçar rota</span>
+                  <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="M7 7h10v10" />
+                    <path d="M7 17 17 7" />
+                  </svg>
+                </span>
+              </div>
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="site-footer">
+      <div class="container reveal">
+        <div class="footer-top">
+          <div>
+            <p class="footer-brand">Dra. Marta Daniele Menezes</p>
+            <div class="footer-meta">
+              <span>Cirurgiã-dentista</span>
+              <span aria-hidden="true">·</span>
+              <span>CRO 1102/SE</span>
+              <span aria-hidden="true">·</span>
+              <span>Instituto Odontomed</span>
+              <span aria-hidden="true">·</span>
+              <span>Aracaju — SE</span>
+            </div>
+          </div>
+
+          <div class="footer-links">
+            <a
+              href="https://www.instagram.com/martadanielemenezes/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="nav-link-editorial"
+            >
+              @martadanielemenezes
+            </a>
+            <a
+              href="https://www.instagram.com/dra.martadaniele_/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="nav-link-editorial"
+            >
+              @dra.martadaniele_
+            </a>
+            <button type="button" class="nav-link-editorial footer-location-trigger" data-open-location>
+              Localização em Aracaju
+            </button>
+          </div>
+        </div>
+
+        <div class="footer-bottom">
+          <p>
+            © <span id="current-year">2026</span> Dra. Marta Daniele Menezes. Todos os direitos reservados.
+          </p>
+          <p>Rua Zaqueu Brandão, 250 — Instituto Odontomed, Bairro São José, Aracaju — SE</p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Painel estático de Localização em Aracaju (sem servidor e sem chave de API) -->
+    <div
+      id="location-drawer"
+      class="location-drawer-overlay"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="location-drawer-title"
+      hidden
+    >
+      <div id="location-drawer-panel" class="location-drawer-panel">
+        <div class="drawer-header">
+          <div>
+            <p class="drawer-kicker">Localização &amp; Acesso</p>
+            <h2 id="location-drawer-title" class="drawer-title">Localização em Aracaju</h2>
+          </div>
+
+          <button type="button" id="location-drawer-close" class="drawer-close" aria-label="Fechar painel">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M18 6 6 18" />
+              <path d="m6 6 12 12" />
+            </svg>
+          </button>
+        </div>
+
+        <div class="drawer-body">
+          <div class="drawer-address-box">
+            <p class="drawer-address-title">
+              Rua Zaqueu Brandão, 250 — Instituto Odontomed
+            </p>
+            <p class="drawer-address-sub">
+              Bairro São José, Aracaju — SE · CEP 49015-330
+            </p>
+          </div>
+
+          <div class="drawer-map-frame">
+            <iframe
+              title="Mapa interativo — Rua Zaqueu Brandão, 250, Bairro São José, Aracaju — SE"
+              src="https://www.google.com/maps/embed?origin=mfe&pb=!1m3!2m1!1sR.+Zaqueu+Brand%C3%A3o,+250+-+S%C3%A3o+Jos%C3%A9,+Aracaju+-+SE,+49015-330!6i17"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+            ></iframe>
+          </div>
+
+          <div class="hours-grid" style="margin-top: 0;">
+            <div class="hour-slot">
+              <p class="hour-days">Segunda, Quarta e Sexta</p>
+              <p class="hour-time tabular-nums">Manhã · 09h às 12h</p>
+            </div>
+            <div class="hour-slot">
+              <p class="hour-days">Terça e Quinta</p>
+              <p class="hour-time tabular-nums">Tarde · 13h às 18h</p>
+            </div>
+          </div>
+
+          <div class="drawer-actions">
+            <a
+              href="https://www.google.com/maps/dir/?api=1&destination=R.+Zaqueu+Brand%C3%A3o%2C+250+-+S%C3%A3o+Jos%C3%A9%2C+Aracaju+-+SE%2C+49015-330"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn-primary w-full"
+            >
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
+                <circle cx="12" cy="10" r="3" />
+              </svg>
+              <span>Abrir seletor de rotas no Google Maps</span>
+            </a>
+
+            <button type="button" id="copy-address-btn" class="btn-secondary w-full">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <rect width="14" height="14" x="8" y="8" rx="2" ry="2" />
+                <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2" />
+              </svg>
+              <span>Copiar endereço completo</span>
+            </button>
+
+            <p id="copy-address-feedback" class="copy-feedback" role="status" aria-live="polite" hidden>
+              Endereço copiado para a área de transferência.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Barra Fixa Inferior Mobile (WhatsApp, Mapa e Topo) -->
+    <nav aria-label="Ações rápidas no celular" class="mobile-bottom-bar">
+      <div class="mobile-bottom-grid">
+        <a
+          href="https://wa.me/557999724010?text=Ol%C3%A1%2C%20Dra.%20Marta!%20Tudo%20bem%3F%20Vim%20pelo%20seu%20site%20e%20gostaria%20de%20obter%20informa%C3%A7%C3%B5es%20sobre%20atendimento."
+          target="_blank"
+          rel="noopener noreferrer"
+          class="mobile-bottom-item mobile-bottom-item--whatsapp"
+        >
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z" />
+          </svg>
+          <span>WhatsApp</span>
+        </a>
+
+        <button type="button" id="mobile-bar-map" class="mobile-bottom-item mobile-bottom-item--map">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
+            <circle cx="12" cy="10" r="3" />
+          </svg>
+          <span>Mapa</span>
+        </button>
+
+        <button
+          type="button"
+          id="mobile-bar-top"
+          aria-label="Voltar ao topo"
+          class="mobile-bottom-item mobile-bottom-item--top"
+        >
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="m5 12 7-7 7 7" />
+            <path d="M12 19V5" />
+          </svg>
+          <span>Topo</span>
+        </button>
+      </div>
+    </nav>
+
+    <!-- Botão Flutuante Desktop: Voltar ao Topo -->
+    <button
+      type="button"
+      id="back-to-top-desktop"
+      aria-label="Voltar ao topo"
+      title="Voltar ao topo"
+      class="back-to-top"
+    >
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="m5 12 7-7 7 7" />
+        <path d="M12 19V5" />
+      </svg>
+      <span>Voltar ao topo</span>
+    </button>
+
+    <script>
+      (function () {
+        var reducedMotionQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
+        function scrollBehavior() {
+          return reducedMotionQuery.matches ? "auto" : "smooth";
+        }
+
+        // 1. Ano atual no rodapé
+        var yearEl = document.getElementById("current-year");
+        if (yearEl) {
+          yearEl.textContent = String(new Date().getFullYear());
+        }
+
+        // 2. Cabeçalho e Menu Mobile
+        var header = document.getElementById("site-header");
+        var brandLink = document.getElementById("brand-link");
+        var menuToggle = document.getElementById("mobile-menu-toggle");
+        var iconOpen = document.getElementById("icon-menu-open");
+        var iconClose = document.getElementById("icon-menu-close");
+        var menuLayer = document.getElementById("mobile-menu-layer");
+        var menuBackdrop = document.getElementById("mobile-menu-backdrop");
+        var mobileMenuOpen = false;
+
+        function setMobileMenu(open) {
+          mobileMenuOpen = Boolean(open);
+          if (menuLayer) menuLayer.hidden = !mobileMenuOpen;
+          if (header) header.classList.toggle("is-menu-open", mobileMenuOpen);
+          if (menuToggle) {
+            menuToggle.setAttribute("aria-expanded", mobileMenuOpen ? "true" : "false");
+            menuToggle.setAttribute("aria-label", mobileMenuOpen ? "Fechar menu" : "Abrir menu");
+          }
+          if (iconOpen) iconOpen.hidden = mobileMenuOpen;
+          if (iconClose) iconClose.hidden = !mobileMenuOpen;
+        }
+
+        if (menuToggle) {
+          menuToggle.addEventListener("click", function () {
+            setMobileMenu(!mobileMenuOpen);
+          });
+        }
+
+        if (menuBackdrop) {
+          menuBackdrop.addEventListener("click", function () {
+            setMobileMenu(false);
+          });
+        }
+
+        if (brandLink) {
+          brandLink.addEventListener("click", function () {
+            setMobileMenu(false);
+          });
+        }
+
+        var mobileNavLinks = document.querySelectorAll("[data-mobile-nav]");
+        mobileNavLinks.forEach(function (link) {
+          link.addEventListener("click", function (e) {
+            var href = link.getAttribute("href");
+            if (href && href.charAt(0) === "#") {
+              e.preventDefault();
+              setMobileMenu(false);
+              window.requestAnimationFrame(function () {
+                var target = document.querySelector(href);
+                if (target) {
+                  target.scrollIntoView({ behavior: scrollBehavior() });
+                }
+              });
+            }
+          });
+        });
+
+        document.querySelectorAll("[data-close-mobile-menu]").forEach(function (el) {
+          el.addEventListener("click", function () {
+            setMobileMenu(false);
+          });
+        });
+
+        var desktopMedia = window.matchMedia("(min-width: 768px)");
+        desktopMedia.addEventListener("change", function (e) {
+          if (e.matches && mobileMenuOpen) {
+            setMobileMenu(false);
+          }
+        });
+
+        // 3. Painel de Localização em Aracaju (100% estático)
+        var locationDrawer = document.getElementById("location-drawer");
+        var locationPanel = document.getElementById("location-drawer-panel");
+        var locationCloseBtn = document.getElementById("location-drawer-close");
+        var copyAddressBtn = document.getElementById("copy-address-btn");
+        var copyFeedback = document.getElementById("copy-address-feedback");
+
+        function openLocationDrawer() {
+          setMobileMenu(false);
+          if (locationDrawer) {
+            locationDrawer.hidden = false;
+          }
+        }
+
+        function closeLocationDrawer() {
+          if (locationDrawer) {
+            locationDrawer.hidden = true;
+          }
+        }
+
+        document.querySelectorAll("[data-open-location]").forEach(function (btn) {
+          btn.addEventListener("click", openLocationDrawer);
+        });
+
+        if (locationCloseBtn) {
+          locationCloseBtn.addEventListener("click", closeLocationDrawer);
+        }
+
+        if (locationDrawer) {
+          locationDrawer.addEventListener("click", function () {
+            closeLocationDrawer();
+          });
+        }
+
+        if (locationPanel) {
+          locationPanel.addEventListener("click", function (e) {
+            e.stopPropagation();
+          });
+        }
+
+        if (copyAddressBtn) {
+          copyAddressBtn.addEventListener("click", function () {
+            var address =
+              "Rua Zaqueu Brandão, 250 — Instituto Odontomed, Bairro São José, Aracaju — SE, CEP 49015-330";
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+              navigator.clipboard.writeText(address).then(function () {
+                if (copyFeedback) copyFeedback.hidden = false;
+              });
+            } else {
+              var ta = document.createElement("textarea");
+              ta.value = address;
+              ta.style.position = "fixed";
+              ta.style.opacity = "0";
+              document.body.appendChild(ta);
+              ta.select();
+              try {
+                document.execCommand("copy");
+                if (copyFeedback) copyFeedback.hidden = false;
+              } catch (_) {}
+              document.body.removeChild(ta);
+            }
+          });
+        }
+
+        window.addEventListener("keydown", function (e) {
+          if (e.key === "Escape") {
+            if (locationDrawer && !locationDrawer.hidden) {
+              closeLocationDrawer();
+            } else if (mobileMenuOpen) {
+              setMobileMenu(false);
+            }
+          }
+        });
+
+        // 4. Barra inferior mobile (Mapa e Topo) + Botão Desktop Voltar ao Topo + Header scroll
+        var heroEl = document.getElementById("inicio");
+        var mobileBarMap = document.getElementById("mobile-bar-map");
+        var mobileBarTop = document.getElementById("mobile-bar-top");
+        var desktopTopBtn = document.getElementById("back-to-top-desktop");
+
+        if (mobileBarMap) {
+          mobileBarMap.addEventListener("click", function () {
+            var mapTarget =
+              document.getElementById("mapa-consultorio") ||
+              document.getElementById("contato");
+            if (mapTarget) {
+              mapTarget.scrollIntoView({ behavior: scrollBehavior() });
+            }
+          });
+        }
+
+        function scrollToTop() {
+          window.scrollTo({ top: 0, behavior: scrollBehavior() });
+        }
+
+        if (mobileBarTop) {
+          mobileBarTop.addEventListener("click", scrollToTop);
+        }
+
+        if (desktopTopBtn) {
+          desktopTopBtn.addEventListener("click", scrollToTop);
+        }
+
+        function updateScrollState() {
+          var scrollY = window.scrollY || window.pageYOffset || 0;
+          if (header) {
+            header.classList.toggle("is-scrolled", scrollY > 12);
+          }
+          if (mobileBarTop) {
+            mobileBarTop.classList.toggle("is-active", scrollY > 140);
+          }
+          if (desktopTopBtn) {
+            var showDesktopTop = heroEl
+              ? heroEl.getBoundingClientRect().bottom <= 96
+              : scrollY > 480;
+            desktopTopBtn.classList.toggle("is-visible", showDesktopTop);
+          }
+        }
+
+        updateScrollState();
+        window.addEventListener("scroll", updateScrollState, { passive: true });
+        window.addEventListener("resize", updateScrollState, { passive: true });
+
+        // 5. Fallbacks de Imagem (Hero + Galeria do Consultório)
+        var heroImg = document.getElementById("hero-photo-img");
+        var heroFallback = document.getElementById("hero-photo-fallback");
+        if (heroImg && heroFallback) {
+          heroImg.addEventListener("error", function () {
+            heroImg.hidden = true;
+            heroFallback.hidden = false;
+          });
+        }
+
+        // 6. Galeria automática contínua do consultório (sem controles manuais)
+        var clinicStage = document.getElementById("clinic-stage");
+        var clinicCaption = document.getElementById("clinic-caption");
+        var clinicFallback = document.getElementById("clinic-fallback");
+        if (clinicStage) {
+          var allSlides = Array.prototype.slice.call(
+            clinicStage.querySelectorAll(".clinic-slide")
+          );
+          var failedSet = new Set();
+          var activeIdx = 0;
+          var prevIdx = null;
+
+          allSlides.forEach(function (img, idx) {
+            img.addEventListener("error", function () {
+              failedSet.add(idx);
+              img.hidden = true;
+              if (failedSet.size >= allSlides.length && clinicFallback) {
+                clinicFallback.hidden = false;
+              }
+            });
+          });
+
+          function renderSlides() {
+            allSlides.forEach(function (img, idx) {
+              if (failedSet.has(idx)) return;
+              var isActive = idx === activeIdx;
+              var isPrev = idx === prevIdx && !isActive;
+              img.classList.toggle("is-active", isActive);
+              img.classList.toggle("is-prev", isPrev);
+            });
+            var currentSlide = allSlides[activeIdx];
+            if (clinicCaption && currentSlide) {
+              clinicCaption.textContent =
+                currentSlide.getAttribute("data-caption") ||
+                "Instituto Odontomed · Aracaju — SE";
+            }
+          }
+
+          if (allSlides.length > 1) {
+            window.setInterval(function () {
+              var nextIdx = (activeIdx + 1) % allSlides.length;
+              var tries = 0;
+              while (failedSet.has(nextIdx) && tries < allSlides.length) {
+                nextIdx = (nextIdx + 1) % allSlides.length;
+                tries += 1;
+              }
+              if (tries < allSlides.length && nextIdx !== activeIdx) {
+                prevIdx = activeIdx;
+                activeIdx = nextIdx;
+                renderSlides();
+              }
+            }, 4200);
+          }
+        }
+
+        // 7. Mini Mapa Embed Load
+        var minimapIframe = document.getElementById("minimap-iframe");
+        var minimapPin = document.getElementById("minimap-pin-overlay");
+        if (minimapIframe) {
+          minimapIframe.addEventListener("load", function () {
+            minimapIframe.classList.add("is-loaded");
+            if (minimapPin) minimapPin.hidden = true;
+          });
+        }
+
+        // 8. Animação suave de entrada ao rolar (Scroll Reveal)
+        var revealNodes = Array.prototype.slice.call(
+          document.querySelectorAll(".reveal")
+        );
+        if (
+          "IntersectionObserver" in window &&
+          !reducedMotionQuery.matches
+        ) {
+          var observer = new IntersectionObserver(
+            function (entries, obs) {
+              entries.forEach(function (entry) {
+                if (entry.isIntersecting) {
+                  entry.target.classList.add("is-visible");
+                  obs.unobserve(entry.target);
+                }
+              });
+            },
+            { threshold: 0.01 }
+          );
+          revealNodes.forEach(function (node) {
+            observer.observe(node);
+          });
+        } else {
+          revealNodes.forEach(function (node) {
+            node.classList.add("is-visible");
+          });
+        }
+      })();
+    </script>
+  </body>
+</html>
